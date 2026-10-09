@@ -1,0 +1,10 @@
+{
+  "name": "CityPulse - Smart City Exploration Platform",
+  "description": "Smart, interactive city exploration & safety platform transforming real-world urban data into actionable insights for Pune and beyond.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
